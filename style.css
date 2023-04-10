@@ -3,13 +3,16 @@
     padding: 0;
 }
 
+
+
 .cabecalho {
     background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px 0; 
+     
 }
 
 .cabecalho-imagem{
@@ -25,3 +28,7 @@
 .escola-imagem{
     width: 25%;
 }
+.escola{
+    background-image: linear-gradient(#424E61,#4EBFE9);
+    color: wheat;
+} 
